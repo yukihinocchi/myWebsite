@@ -14,6 +14,8 @@ a {
 
 h1{
     color:#3E1485;
+    display: flex;
+    justify-content: center;
 }
 
 .card {
