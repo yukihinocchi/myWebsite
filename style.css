@@ -1,3 +1,21 @@
+.buttons {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.buttons .link{
+    padding:10px;
+    background-color:white;
+    border-radius: 8px;
+    color:#3E1485;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+h1{
+    color:#3E1485;
+}
+
 .card {
     width: 500px;
     margin: 50px auto;
